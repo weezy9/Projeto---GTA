@@ -24,7 +24,7 @@
 <p>💬 Tem alguma <strong>sugestão, feedback ou dúvida</strong> sobre o projeto? Fique à vontade para me chamar!</p>
 
 <p>• 📧 <strong>E-mail:</strong> <a href="mailto:alissa.nwf@gmail.com">Meu E-mail</a> </p>
-<p>• 🔗 <strong>LinkedIn:</strong> <a href="www.linkedin.com/in/alissa-novais-wenceslau-ferreira-b6312025b">Meu Linkedin</a></p>
+<p>• 🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/alissa-novais-wenceslau-ferreira-b6312025b">Meu Linkedin</a></p>
 
 
 
